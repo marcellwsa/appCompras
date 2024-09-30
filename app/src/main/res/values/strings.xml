@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">AppCompras</string>
+    <string name="title_cadastro_de_categorias_txt">Cadastro de Categorias</string>
+    <string name="txt_id_txt">ID:</string>
+    <string name="txt_description_txt">Descrição:</string>
+    <string name="btn_include_txt">Incluir</string>
+    <string name="btn_save_txt">Salvar</string>
+    <string name="btn_edit_txt">Editar</string>
+    <string name="edt_description_hint">Descrição</string>
 </resources>
